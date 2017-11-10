@@ -69,10 +69,35 @@
     height: 450px;
 }
 
+.box li a img{
+    max-width: 1000px;
+    max-height: 450px;
+}
 
+.box li:hover{
+    color: #999;
+}
 
+a.prev,a.next{
+    display: block;
+    width: 42px;
+    height: 67px;
+    float: left;
+    cursor: pointer;
+    z-index: 50;
+}
 
+a.prev{
+    position: absolute;
+    left:10px;
+    top:170px;
+}
 
+a.next{
+    position: absolute;
+    left: 950px;
+    top:170px;
+}
 
 
 
