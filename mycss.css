@@ -1,6 +1,9 @@
+ul,li{
+    list-style: none;
+}
 .main{
     width:1000px;
-    height: 1000px;
+    height: 1500px;
     background:#DDA0DD; 
     margin: 0px auto;
 }
@@ -99,23 +102,21 @@ a.next{
     top:170px;
 }
 
+.xuanchuan{
+    width: 1000px;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.main section ul li{
+    width: 250px;
+    height: 270px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 40px;
+    text-align: center;
+}
 
 
 
