@@ -29,3 +29,76 @@
 .main nav ul li a:hover{
     font-weight: bold;
 }
+
+.divframe{
+    width: 1000px;
+    height: 450px;
+    margin: auto;
+    position: relative;
+}
+
+.scroll_list ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+.scroll{
+    margin: 0 auto;
+    width: 938px;
+    float: left;
+}
+
+.scroll_list{
+    width: 10000em;
+    position: absolute;
+}
+
+.box{
+    height: 450px;
+    float: left;
+    width: 1000px;
+    overflow: hidden;
+    position: relative;
+    margin-top: 10px;
+}
+
+.box li{
+    display: block;
+    float: left;
+    width: 1000px;
+    height: 450px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
