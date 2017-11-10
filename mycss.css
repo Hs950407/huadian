@@ -1,0 +1,31 @@
+.main{
+    width:1000px;
+    height: 1000px;
+    background:#DDA0DD; 
+    margin: 0px auto;
+}
+.main nav{
+    width: 1000px;
+    height: 40px;
+    background:#DA70D6;
+    border-radius:5px;
+}
+
+.main nav ul li{
+    width: 80px;
+    height:40px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.main nav ul li a{
+    color:#9932CC;
+    font-family: "微软雅黑";
+    font-size: 20px;
+}
+
+.main nav ul li a:hover{
+    font-weight: bold;
+}
