@@ -169,6 +169,45 @@ a.next{
 }
 
 
+.links{
+    width: 1000px;
+    height: 200px;
+}
+
+.link01 a{
+    width: 150px;
+    height: 150px;
+    float: left;
+    font-size: 20px;
+    display: -moz-box;
+    margin-top: 130px;
+    margin-left: 70px;
+}
+
+.kuang{
+    width: 1000px;
+    height: 900px;
+    background-color: bisque;
+    margin-top: 150px;
+}
+
+.kuang01{
+    width: 1000px;
+    height: 200px;
+    background-color: darkseagreen;
+    margin-top: 20px;
+    
+}
+
+.kuang01 a{
+    float: left;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+
 
 
 
