@@ -4,33 +4,45 @@ ul,li{
 .main{
     width:1000px;
     height: 1500px;
-    background:#DDA0DD; 
+    background:#FFE4E1; 
     margin: 0px auto;
 }
 .main nav{
     width: 1000px;
     height: 40px;
-    background:#DA70D6;
+    background:#FFC1C1;
     border-radius:5px;
+    float: left;
+    margin-left:0px;
+    margin-top: 0px;
 }
 
 .main nav ul li{
     width: 80px;
     height:40px;
     float: left;
-    margin-top: 8px;
+    margin-top: -10px;
     margin-left: 20px;
     text-align: center;
 }
 
 .main nav ul li a{
-    color:#9932CC;
+    color:#FF1493;
     font-family: "微软雅黑";
     font-size: 20px;
 }
 
 .main nav ul li a:hover{
     font-weight: bold;
+}
+
+.title{
+    color:#FF1493;
+    font-family: "微软雅黑";
+    font-size: 40px;
+    float: left;
+    margin-left:40px;
+    margin-top: 10px;
 }
 
 .divframe{
@@ -145,11 +157,11 @@ a.next{
 
 
 
-.guditupian{
+.main article guditupian{
     width: 1000px;
     height: 350px;
+    margin-top: 10px;
     margin: auto;
-    position: relative;
 }
 
 .wenzi{
@@ -157,10 +169,14 @@ a.next{
     margin-left: 250px;
 }
 
+.main section huayu1 li a{
+    color: #FF1493;
+}
+
 .huayu1{
     width: 1000px;
     height: 250px;
-    margin-top: 130px;
+    margin-top: 210px;
 }
 .huayu{
     width: 1000px;
@@ -172,6 +188,7 @@ a.next{
 .links{
     width: 1000px;
     height: 200px;
+    margin-top: 130px;
 }
 
 .link01 a{
@@ -180,21 +197,20 @@ a.next{
     float: left;
     font-size: 20px;
     display: -moz-box;
-    margin-top: 130px;
+    margin-top: 110px;
     margin-left: 70px;
 }
 
 .kuang{
     width: 1000px;
     height: 900px;
-    background-color: bisque;
     margin-top: 150px;
 }
 
 .kuang01{
     width: 1000px;
     height: 200px;
-    background-color: darkseagreen;
+    background-color: #FFC1C1;
     margin-top: 20px;
     
 }
@@ -205,32 +221,36 @@ a.next{
     margin-top: 0px;
     margin-left: 120px;
     text-align: center;
+    color: #FF1493;
 }
 
 .denglu{
     width:1000px;
-    height: 700px;
-    background:#DDA0DD; 
+    height: 600px;
+    background:#FFE4E1; 
     margin: 0px auto;
 }
 .denglu nav{
     width: 1000px;
     height: 40px;
-    background:#DA70D6;
+    background:#FFC1C1;
     border-radius:5px;
+    float: left;
+    margin-left: 0px;
+    margin-top: 0px;
 }
 
 .denglu nav ul li{
     width: 80px;
     height:40px;
     float: left;
-    margin-top: 8px;
+    margin-top: -10px;
     margin-left: 20px;
     text-align: center;
 }
 
 .denglu nav ul li a{
-    color:#9932CC;
+    color:#FF1493;
     font-family: "微软雅黑";
     font-size: 20px;
 }
@@ -241,20 +261,19 @@ a.next{
 .denglukuang{
     margin-top: 0px;
     width: 1000px;
-    height: 500px;
-    background-color: darkgray;
+    height: 600px;
 }
 
 .denglutu{
     float: left;
-    margin-left: 175px;
-    margin-top: 100px;
+    margin-left: 130px;
+    margin-top: 70px;
 }
 
 .dengluwenzi{
     float: left;
     margin-left: 100px;
-    margin-top: 110px;
+    margin-top: 70px;
     font-size: 15px;
 }
 
@@ -266,7 +285,7 @@ a.next{
     border-radius: 20px;
     line-height: 40px;
     text-align: center;
-    background-color: coral;
+    background-color: #FFAEB9;
     
 }
 .div2{
@@ -277,10 +296,12 @@ a.next{
     border-radius: 20px;
     line-height: 40px;
     text-align: center;
-    background-color: coral;
+    background-color: #FFAEB9;
 }
 
-
+.mingxianziti{
+    font-size: 15px;
+}
 
 
 
