@@ -201,11 +201,106 @@ a.next{
 
 .kuang01 a{
     float: left;
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 0px;
-    margin-left: 50px;
+    margin-left: 120px;
     text-align: center;
 }
+
+.denglu{
+    width:1000px;
+    height: 700px;
+    background:#DDA0DD; 
+    margin: 0px auto;
+}
+.denglu nav{
+    width: 1000px;
+    height: 40px;
+    background:#DA70D6;
+    border-radius:5px;
+}
+
+.denglu nav ul li{
+    width: 80px;
+    height:40px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.denglu nav ul li a{
+    color:#9932CC;
+    font-family: "微软雅黑";
+    font-size: 20px;
+}
+
+.denglu nav ul li a:hover{
+    font-weight: bold;
+}
+.denglukuang{
+    margin-top: 0px;
+    width: 1000px;
+    height: 500px;
+    background-color: darkgray;
+}
+
+.denglutu{
+    float: left;
+    margin-left: 175px;
+    margin-top: 100px;
+}
+
+.dengluwenzi{
+    float: left;
+    margin-left: 100px;
+    margin-top: 120px;
+    font-size: 15px;
+}
+
+.div1{
+    width: 200px;
+    height: 30px;
+    margin: 30px auto;
+    border: 3px;
+    border-radius: 20px;
+    line-height: 40px;
+    text-align: center;
+    background-color: coral;
+    
+}
+.div2{
+    width: 100px;
+    height: 30px;
+    margin: 30px auto;
+    border: 3px;
+    border-radius: 20px;
+    line-height: 40px;
+    text-align: center;
+    background-color: coral;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
