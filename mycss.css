@@ -117,7 +117,26 @@ a.next{
     margin-left: 40px;
     text-align: center;
 }
+.tupianzhanshi{
+    width: 1000px;
+    height: 600px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
 
+.zuo{
+    width: 490px;
+    height: 460px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.you{
+    width: 490px;
+    height: 460px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
 .main footer footertop{
     
     
@@ -126,7 +145,28 @@ a.next{
 
 
 
+.guditupian{
+    width: 1000px;
+    height: 350px;
+    margin: auto;
+    position: relative;
+}
 
+.wenzi{
+    margin-top: -250px;
+    margin-left: 250px;
+}
+
+.huayu1{
+    width: 1000px;
+    height: 250px;
+    margin-top: 130px;
+}
+.huayu{
+    width: 1000px;
+    height: 250px;
+    margin-top: 30px;
+}
 
 
 
