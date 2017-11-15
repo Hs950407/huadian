@@ -1,6 +1,24 @@
 ul,li{
     list-style: none;
 }
+a{
+    text-decoration: none;
+}
+img{
+    margin: 0px;
+    padding: 0px;
+}
+.ul01{
+    float: left;
+}
+.ul02 {
+    float: right;
+    padding-top: 15px;
+    padding-right: 0px;
+    font-size: 10px;
+    text-decoration: none;
+}
+
 .main{
     width:1000px;
     height: 1500px;
@@ -30,6 +48,7 @@ ul,li{
     color:#FF1493;
     font-family: "微软雅黑";
     font-size: 20px;
+    text-decoration: none;
 }
 
 .main nav ul li a:hover{
@@ -43,6 +62,7 @@ ul,li{
     float: left;
     margin-left:40px;
     margin-top: 10px;
+    padding-left: 40px;
 }
 
 .divframe{
@@ -119,6 +139,7 @@ a.next{
     height: 300px;
     margin-top: 0px;
     margin-left: 0px;
+    margin-top: 220px;
 }
 
 .main section ul li{
@@ -131,23 +152,39 @@ a.next{
 }
 .tupianzhanshi{
     width: 1000px;
-    height: 600px;
+    height: 650px;
     margin-top: 0px;
     margin-left: 0px;
+    text-decoration: none;
 }
-
+.datu01:hover{
+    border: 2px solid black;
+}
+/*
+.xianhuameigui{
+    color:#FF1493;
+    font-family: "微软雅黑";
+    font-size: 20px;
+   
+    margin-left:30px;
+    margin-top: 10px;
+   
+}
+*/
 .zuo{
     width: 490px;
     height: 460px;
-    margin-top: 0px;
-    margin-left: 0px;
+    margin-top: 10px;
+    margin-left: 30px;
+    float: left;
 }
 
 .you{
+    float: right;
     width: 490px;
     height: 460px;
-    margin-top: 0px;
-    margin-left: 0px;
+    margin-top: 10px;
+    margin-left: -10px;
 }
 .main footer footertop{
     
@@ -275,12 +312,13 @@ a.next{
     margin-left: 100px;
     margin-top: 70px;
     font-size: 15px;
+
 }
 
 .div1{
     width: 200px;
     height: 30px;
-    margin: 30px auto;
+    margin: 15px auto;
     border: 3px;
     border-radius: 20px;
     line-height: 40px;
@@ -289,13 +327,14 @@ a.next{
     
 }
 .div2{
-    width: 100px;
-    height: 30px;
+    
     margin: 30px auto;
-    border: 3px;
-    border-radius: 20px;
     line-height: 40px;
     text-align: center;
+    background-color: #FFAEB9;
+}
+
+.div3{
     background-color: #FFAEB9;
 }
 
@@ -304,7 +343,14 @@ a.next{
 }
 
 
-
+.lianxi{
+    width: 1000px;
+    height: 300px;
+    margin-top: 70px;
+    padding-top: 100px;
+    padding-left: 200px;
+    
+}
 
 
 
