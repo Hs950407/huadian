@@ -142,6 +142,10 @@ a.next{
     margin-top: 220px;
 }
 
+.xuanchuan a{
+    color: #FF1493;
+}
+
 .main section ul li{
     width: 250px;
     height: 270px;
@@ -158,7 +162,7 @@ a.next{
     text-decoration: none;
 }
 .datu01:hover{
-    border: 2px solid black;
+    border: 3px solid #FF1493;
 }
 /*
 .xianhuameigui{
@@ -186,10 +190,6 @@ a.next{
     margin-top: 10px;
     margin-left: -10px;
 }
-.main footer footertop{
-    
-    
-}
 
 
 
@@ -210,10 +210,25 @@ a.next{
     color: #FF1493;
 }
 
+.huayu1 a{
+    color: #FF1493;
+}
+
+.huayu a{
+    color: #FF1493;
+}
+
 .huayu1{
     width: 1000px;
     height: 250px;
     margin-top: 210px;
+}
+.huayu1 img{
+    border-radius:50%;
+}
+
+.huayu img{
+    border-radius:50%;
 }
 .huayu{
     width: 1000px;
@@ -299,6 +314,7 @@ a.next{
     margin-top: 0px;
     width: 1000px;
     height: 600px;
+    padding-top: 50px;
 }
 
 .denglutu{
@@ -352,9 +368,16 @@ a.next{
     
 }
 
+.chenggong a{
+    padding-top: 300px;
+    padding-left: 400px;
+    font-size: 30px;
+}
 
-
-
+.shipin{
+    padding-top: 400px;
+    padding-left: 400px;
+}
 
 
 
