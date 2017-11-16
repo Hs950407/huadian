@@ -11,24 +11,30 @@ img{
 .ul01{
     float: left;
 }
-.ul02 {
+.ul02 li {
     float: right;
-    padding-top: 15px;
+    padding-top: 0px;
     padding-right: 0px;
     font-size: 10px;
     text-decoration: none;
+    float: right;
+    width: 20px;
+    height:40px;
+    margin-top: -10px;
+    margin-left: 0px;
+    text-align: center;
 }
 
 .main{
     width:1000px;
     height: 1500px;
-    background:#FFE4E1; 
+    background:#FDF5E6; 
     margin: 0px auto;
 }
 .main nav{
     width: 1000px;
     height: 40px;
-    background:#FFC1C1;
+    background:#FFE4C4;
     border-radius:5px;
     float: left;
     margin-left:0px;
@@ -164,6 +170,10 @@ a.next{
 .datu01:hover{
     border: 3px solid #FF1493;
 }
+
+.datu02 a:hover{
+    color: aliceblue;
+}
 /*
 .xianhuameigui{
     color:#FF1493;
@@ -262,7 +272,7 @@ a.next{
 .kuang01{
     width: 1000px;
     height: 200px;
-    background-color: #FFC1C1;
+    background-color: #FFE4C4;
     margin-top: 20px;
     
 }
@@ -362,9 +372,8 @@ a.next{
 .lianxi{
     width: 1000px;
     height: 300px;
-    margin-top: 70px;
-    padding-top: 100px;
-    padding-left: 200px;
+   padding-top: 200px;
+    padding-left: 400px;
     
 }
 
